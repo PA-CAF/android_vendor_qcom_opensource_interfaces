@@ -54,7 +54,7 @@ cc_library_shared {
         "libutils",
         "libcutils",
         "android.hardware.camera.device@1.0",
-        "android.hidl.base@1.0",
+        
     ],
     export_shared_lib_headers: [
         "libhidlbase",
@@ -62,7 +62,7 @@ cc_library_shared {
         "libhwbinder",
         "libutils",
         "android.hardware.camera.device@1.0",
-        "android.hidl.base@1.0",
+        
     ],
 }
 
@@ -81,7 +81,7 @@ cc_library_shared {
         "libutils",
         "libcutils",
         "android.hardware.camera.device@1.0",
-        "android.hidl.base@1.0",
+        
     ],
     export_shared_lib_headers: [
         "libhidlbase",
@@ -89,6 +89,6 @@ cc_library_shared {
         "libhwbinder",
         "libutils",
         "android.hardware.camera.device@1.0",
-        "android.hidl.base@1.0",
+        
     ],
 }

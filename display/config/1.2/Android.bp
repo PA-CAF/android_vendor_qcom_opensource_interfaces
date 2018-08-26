@@ -49,7 +49,7 @@ cc_library_shared {
         "liblog",
         "libutils",
         "libcutils",
-        "android.hidl.base@1.0",
+        
         "vendor.display.config@1.0",
         "vendor.display.config@1.1",
     ],
@@ -58,7 +58,7 @@ cc_library_shared {
         "libhidltransport",
         "libhwbinder",
         "libutils",
-        "android.hidl.base@1.0",
+        
         "vendor.display.config@1.0",
         "vendor.display.config@1.1",
     ],
@@ -78,7 +78,7 @@ cc_library_shared {
         "liblog",
         "libutils",
         "libcutils",
-        "android.hidl.base@1.0",
+        
         "vendor.display.config@1.0_vendor",
         "vendor.display.config@1.1_vendor",
     ],
@@ -87,7 +87,7 @@ cc_library_shared {
         "libhidltransport",
         "libhwbinder",
         "libutils",
-        "android.hidl.base@1.0",
+        
         "vendor.display.config@1.0_vendor",
         "vendor.display.config@1.1_vendor",
     ],

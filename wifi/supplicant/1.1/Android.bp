@@ -75,7 +75,7 @@ cc_library_shared {
         "libutils",
         "libcutils",
         "android.hardware.wifi.supplicant@1.0",
-        "android.hidl.base@1.0",
+        
         "vendor.qti.hardware.wifi.supplicant@1.0",
     ],
     export_shared_lib_headers: [
@@ -84,7 +84,7 @@ cc_library_shared {
         "libhwbinder",
         "libutils",
         "android.hardware.wifi.supplicant@1.0",
-        "android.hidl.base@1.0",
+        
         "vendor.qti.hardware.wifi.supplicant@1.0",
     ],
 }
@@ -104,7 +104,7 @@ cc_library_shared {
         "libutils",
         "libcutils",
         "android.hardware.wifi.supplicant@1.0",
-        "android.hidl.base@1.0",
+        
         "vendor.qti.hardware.wifi.supplicant@1.0_vendor",
     ],
     export_shared_lib_headers: [
@@ -113,7 +113,7 @@ cc_library_shared {
         "libhwbinder",
         "libutils",
         "android.hardware.wifi.supplicant@1.0",
-        "android.hidl.base@1.0",
+        
         "vendor.qti.hardware.wifi.supplicant@1.0_vendor",
     ],
 }
